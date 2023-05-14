@@ -1,24 +1,48 @@
 body {
-    background-image: url("https://user-images.githubusercontent.com/59810782/186779085-e9eecce6-64b0-4e63-aae3-37ee33508686.jpg");
-    height: 100%;
-    background-repeat: no-repeat;
+  background-image: url("https://images.unsplash.com/photo-1553969420-fb915228af51?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
 }
 .mainText {
-    text-align: center;
-    font-weight: bold;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 2;
-    width: 80%;
-    padding: 20px;
+  text-align: right;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-127%, -100%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+}
+.leftText {
+  text-align: left;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-58.8%, -75%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+}
+.icons {
+  text-align: left;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(37%, -95%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
 }
 .bottomText {
-    position: fixed;
-    font-weight: 600;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
+  position: fixed;
+  font-weight: 600;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
