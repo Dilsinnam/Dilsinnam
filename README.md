@@ -17,5 +17,5 @@
 </div>
 <div align="right">
   
-   ![View badge](https://komarev.com/ghpvc/?username=Dilsiname&color=red&style=plastic)
+   ![View badge](https://komarev.com/ghpvc/?username=Dilsiname&color=F31807&style=plastic)
 </div>
